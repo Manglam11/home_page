@@ -148,6 +148,14 @@ LANDING_PAGE/
 └── vite.config.js
 ```
 
+## Snapshots
+
+![Overview](/src/assets/ss_1.png)
+
+![Overview](/src/assets/ss_2.png)
+
+![Overview](/src/assets/ss_3.png)
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions or improvements, please:
