@@ -179,6 +179,6 @@ For any questions or inquiries, please contact:
 
 - **Name:** Manlglam
 - **Email:** manglamdubey2011@gmail.com
-- **GitHub:** [Manglam_11](https://github.com/your-username)
+- **GitHub:** [Manglam_11](https://github.com/Manglam11)
 
 Happy coding! 🎉
